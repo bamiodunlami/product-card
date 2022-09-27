@@ -28,7 +28,7 @@ section{
 }
 
 .img-col{
-    background: url(images/image-product-desktop.jpg);
+    background: url(./images/image-product-desktop.jpg);
     background-position: center;
     background-size: cover;
 }
@@ -90,7 +90,7 @@ section{
         padding: 15vh 10%;
     }
     .img-col{
-        background: url(images/image-product-mobile.jpg);
+        background: url("./images/image-product-mobile.jpg");
         background-position: center;
         background-size: cover;
         height: 50vw;
